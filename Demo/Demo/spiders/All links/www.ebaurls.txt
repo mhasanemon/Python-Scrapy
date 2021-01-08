@@ -1,0 +1,368 @@
+https://www.ebay.com/		 Website is up
+
+https://www.ebay.com/sch/ebayadvsearch		 Website is up
+
+https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&_trksid=m570.l3348		 Website is up
+
+https://www.ebay.com/globaldeals		 Website is up
+
+http://csr.ebay.com/cse/sell.jsf		 Website is up
+
+https://ocsnext.ebay.com/ocs/home		 Website is up
+
+https://my.ebay.com/ws/eBayISAPI.dll?MyEbay&gbh=1		 Website is up
+
+https://www.ebay.com/myb/Summary		 Website is up
+
+https://www.ebay.com/myb/container?key=recentlyviewed		 Website is up
+
+https://www.ebay.com/myb/BidsOffers		 Website is up
+
+https://www.ebay.com/myb/WatchList		 Website is up
+
+https://www.ebay.com/myb/PurchaseHistory		 Website is up
+
+https://my.ebay.com/ws/eBayISAPI.dll?MyEbay&gbh=1&CurrentPage=MyeBayAllSelling&ssPageName=STRK:ME:LNLK:MESX		 Website is up
+
+https://www.ebay.com/myb/SavedSearches		 Website is up
+
+https://www.ebay.com/myb/SavedSellers		 Website is up
+
+https://mesg.ebay.com/mesgweb/ViewMessages/0		 Website is up
+
+https://cart.payments.ebay.com/sc/view		 Website is up
+
+https://www.ebay.com/feed		 Website is up
+
+https://www.ebay.com/b/Electronics/bn_7000259124		 Website is up
+
+https://www.ebay.com/b/Cell-Phones-Smart-Watches-Accessories/15032/bn_1865441		 Website is up
+
+https://www.ebay.com/b/Smart-Watches/178893/bn_152365		 Website is up
+
+https://www.ebay.com/b/Video-Games-Consoles/1249/bn_1850232		 Website is up
+
+https://www.ebay.com/b/Computers-Tablets-Network-Hardware/58058/bn_1865247		 Website is up
+
+https://www.ebay.com/b/Cameras-Photo/625/bn_1865546		 Website is up
+
+https://www.ebay.com/b/Camera-Drones/179697/bn_89951		 Website is up
+
+https://www.ebay.com/globaldeals/tech		 Website is up
+
+https://www.ebay.com/b/Apple-iPhone/9355/bn_319682		 Website is up
+
+https://www.ebay.com/b/Samsung-Cell-Phones-and-Smartphones/9355/bn_352130		 Website is up
+
+https://www.ebay.com/b/Portable-Audio-Headphones/15052/bn_1642614		 Website is up
+
+https://www.ebay.com/b/TV-Video-Home-Audio-Electronics/32852/bn_1648392		 Website is up
+
+https://www.ebay.com/b/Vehicle-Electronics-GPS/3270/bn_887004		 Website is up
+
+https://www.ebay.com/b/Smart-Home/bn_7000880931		 Website is up
+
+https://www.ebay.com/b/Fashion/bn_7000259856		 Website is up
+
+https://www.ebay.com/b/Womens-Clothing/15724/bn_661783		 Website is up
+
+https://www.ebay.com/b/Womens-Shoes/3034/bn_740022		 Website is up
+
+https://www.ebay.com/b/Mens-Clothing/1059/bn_696958		 Website is up
+
+https://www.ebay.com/b/Mens-Shoes/93427/bn_61999		 Website is up
+
+https://www.ebay.com/b/Watches-Parts-Accessories/14324/bn_2408535		 Website is up
+
+https://www.ebay.com/globaldeals/fashion		 Website is up
+
+https://www.ebay.com/b/Fine-Jewelry/4196/bn_2408477		 Website is up
+
+https://www.ebay.com/b/Jewelry/bn_7000259126		 Website is up
+
+https://www.ebay.com/b/Mens-Accessories/4250/bn_1642245		 Website is up
+
+https://www.ebay.com/b/Womens-Bags-Handbags/169291/bn_738272		 Website is up
+
+https://www.ebay.com/b/Kids-Clothing-Shoes-Accessories/171146/bn_1642843		 Website is up
+
+https://www.ebay.com/b/Beauty/bn_7000259123		 Website is up
+
+https://www.ebay.com/b/Makeup-Products/31786/bn_1865570		 Website is up
+
+https://www.ebay.com/b/Health/bn_7000259659		 Website is up
+
+https://www.ebay.com/b/Fragrances/180345/bn_1853074		 Website is up
+
+https://www.ebay.com/b/Manicure-Pedicure-Nail-Care-Products/47945/bn_223038		 Website is up
+
+https://www.ebay.com/b/Hair-Care-Styling-Products/11854/bn_1855355		 Website is up
+
+https://www.ebay.com/globaldeals/fashion/beauty		 Website is up
+
+https://www.ebay.com/b/Skin-Care-Products/11863/bn_1856572		 Website is up
+
+https://www.ebay.com/b/Vitamins-Dietary-Supplements/180959/bn_7203746		 Website is up
+
+https://www.ebay.com/b/Shaving-Hair-Removal-Products/31762/bn_223821		 Website is up
+
+https://www.ebay.com/b/Vision-Care-Products/31414/bn_1865451		 Website is up
+
+https://www.ebay.com/b/Bath-Body-Products/11838/bn_1850348		 Website is up
+
+https://www.ebay.com/b/Oral-Care-Products/31769/bn_695503		 Website is up
+
+https://www.ebay.com/rpp/geo-parts-accessories-motors		 Website is up
+
+https://www.ebay.com/rpp/geo-parts-accessories-motors		 Website is up
+
+https://www.ebay.com/b/Motorcycle-Parts/10063/bn_557636		 Website is up
+
+https://www.ebay.com/b/ATV-Side-by-Side-UTV-Parts-Accessories/43962/bn_562707		 Website is up
+
+https://www.ebay.com/b/Scooter-Parts-Accessories/84149/bn_16582008		 Website is up
+
+https://www.ebay.com/b/Snowmobile-Parts-in-Motors/100448/bn_579671		 Website is up
+
+https://www.ebay.com/globaldeals/more/automotive		 Website is up
+
+https://www.ebay.com/b/Motorcycle-Street-Gear/177099/bn_55168230		 Website is up
+
+https://www.ebay.com/b/Snowmobile-Apparel-Merchandise/100440/bn_561549		 Website is up
+
+https://www.ebay.com/b/Motorcycle-Accessories/25622/bn_78211228		 Website is up
+
+https://www.ebay.com/b/Performance-Racing-Parts/107057/bn_568110		 Website is up
+
+https://www.ebay.com/b/Vintage-Car-Truck-Parts/10073/bn_558746		 Website is up
+
+https://www.ebay.com/b/Car-Electronics/38635/bn_562662		 Website is up
+
+https://www.ebay.com/b/Collectibles-Art/bn_7000259855		 Website is up
+
+https://www.ebay.com/b/Action-Figures/246/bn_1648288		 Website is up
+
+https://www.ebay.com/b/Coins-Paper-Money/11116/bn_1857806		 Website is up
+
+https://www.ebay.com/b/Stamps/260/bn_1865095		 Website is up
+
+https://www.ebay.com/b/Collectible-Postcards/914/bn_1865516		 Website is up
+
+https://www.ebay.com/b/Entertainment-Memorabilia/45100/bn_1859756		 Website is up
+
+https://www.ebay.com/b/Sports-Memorabilia-Fan-Shop-Sports-Cards/64482/bn_1857919		 Website is up
+
+https://www.ebay.com/b/Collectibles/1/bn_1858810		 Website is up
+
+https://www.ebay.com/b/Art/550/bn_1853728		 Website is up
+
+https://www.ebay.com/b/Antiques/20081/bn_1851017		 Website is up
+
+https://www.ebay.com/b/Collectible-Pens-Writing-Instruments/966/bn_1865414		 Website is up
+
+https://www.ebay.com/b/TV-Movie-Character-Toys/2624/bn_1865498		 Website is up
+
+https://www.ebay.com/b/Diecast-Toy-Vehicles/222/bn_1850842		 Website is up
+
+https://www.ebay.com/b/Collectible-Comics/63/bn_1865459		 Website is up
+
+https://www.ebay.com/b/Sporting-Goods/888/bn_1865031		 Website is up
+
+https://www.ebay.com/b/Cycling-Equipment/7294/bn_1848937		 Website is up
+
+https://www.ebay.com/b/Outdoor-Sports/159043/bn_1855398		 Website is up
+
+https://www.ebay.com/b/Hunting-Equipment/7301/bn_1865054		 Website is up
+
+https://www.ebay.com/b/Fishing-Equipment-Supplies/1492/bn_1851047		 Website is up
+
+https://www.ebay.com/b/Fitness-Running-Yoga-Equipment/15273/bn_1855426		 Website is up
+
+https://www.ebay.com/globaldeals/home/sporting-goods		 Website is up
+
+https://www.ebay.com/b/Tennis-Racquet-Sports/159134/bn_1865461		 Website is up
+
+https://www.ebay.com/b/Swimming-Equipment/74050/bn_1968654		 Website is up
+
+https://www.ebay.com/b/Water-Sports/159136/bn_1855031		 Website is up
+
+https://www.ebay.com/b/Winter-Sports/36259/bn_1853285?		 Website is up
+
+https://www.ebay.com/b/Team-Sports/159049/bn_1865097		 Website is up
+
+https://www.ebay.com/b/Fitness-Technology/44075/bn_1944181		 Website is up
+
+https://www.ebay.com/b/Home-Garden/11700/bn_1853126		 Website is up
+
+https://www.ebay.com/b/Tools-Workshop-Equipment/631/bn_1851815		 Website is up
+
+https://www.ebay.com/b/Yard-Garden-Outdoor-Living-Items/159912/bn_1853607		 Website is up
+
+https://www.ebay.com/b/Home-Improvement/159907/bn_1851980		 Website is up
+
+https://www.ebay.com/b/Baby/2984/bn_1854104		 Website is up
+
+https://www.ebay.com/b/Kitchen-Dining-Bar-Supplies/20625/bn_1865564		 Website is up
+
+https://www.ebay.com/b/Lamps-Lighting-Ceiling-Fans/20697/bn_818527		 Website is up
+
+https://www.ebay.com/globaldeals/home		 Website is up
+
+https://www.ebay.com/b/Home-Decor/10033/bn_1849733		 Website is up
+
+https://www.ebay.com/b/Home-Organization-Supplies/43502/bn_2311028		 Website is up
+
+https://www.ebay.com/b/Art-Craft-Supplies/14339/bn_1851051		 Website is up
+
+https://www.ebay.com/b/Beads-Jewelry-Making-Supplies/31723/bn_1860484		 Website is up
+
+https://www.ebay.com/b/Art-Supplies/11783/bn_1855076		 Website is up
+
+https://www.ebay.com/b/Scrapbooking-Paper-Craft-Supplies/11788/bn_1849898		 Website is up
+
+https://www.ebay.com/b/Pet-Supplies/1281/bn_1853597		 Website is up
+
+https://www.ebay.com/globaldeals		 Website is up
+
+https://www.ebay.com/globaldeals		 Website is up
+
+https://www.ebay.com/globaldeals/tech		 Website is up
+
+https://www.ebay.com/globaldeals/fashion		 Website is up
+
+https://www.ebay.com/globaldeals/fashion/beauty		 Website is up
+
+https://www.ebay.com/globaldeals/home		 Website is up
+
+https://www.ebay.com/globaldeals/home/sporting-goods		 Website is up
+
+https://www.ebay.com/globaldeals/tech/cell-phones		 Website is up
+
+https://www.ebay.com/globaldeals/tech/cameras-photo		 Website is up
+
+https://www.ebay.com/globaldeals/fashion/watches		 Website is up
+
+https://www.ebay.com/globaldeals/fashion/fashion-jewelry		 Website is up
+
+https://www.ebay.com/globaldeals/tech/tech-with-free-shipping		 Website is up
+
+https://www.ebay.com/globaldeals/fashion/fashion-with-free-shipping		 Website is up
+
+https://www.ebay.com/globaldeals/featured/hot-picks-of-the-week		 Website is up
+
+https://www.ebay.com/b/Under-10/bn_7001623770		 Website is up
+
+https://www.ebay.com/b/Electronics/bn_7000259124		 Website is up
+
+https://www.ebay.com/b/Fashion/bn_7000259856		 Website is up
+
+https://www.ebay.com/b/Beauty/bn_7000259123		 Website is up
+
+https://www.ebay.com/rpp/geo-parts-accessories-motors		 Website is up
+
+https://www.ebay.com/b/Collectibles-Art/bn_7000259855		 Website is up
+
+https://www.ebay.com/b/Sporting-Goods/888/bn_1865031		 Website is up
+
+https://www.ebay.com/b/Home-Garden/11700/bn_1853126		 Website is up
+
+https://www.ebay.com/globaldeals		 Website is up
+
+https://www.ebay.com/b/Under-10/bn_7001623770		 Website is up
+
+https://www.ebay.com/deals		 Website is up
+
+https://www.ebay.com/rpp/welcome-to-ebay-row/goods-free-shipping		 Website is up
+
+ https://pages.ebay.com/ebay-money-back-guarantee/		 Website is up
+
+https://www.ebay.com/rpp/row-promo/gift-ideas		 Website is up
+
+ https://www.ebay.com/rpp/row-promo/hot-trend-row		 Website is up
+
+https://www.ebay.com/rpp/shop-the-globe-all/Emerging-brands/?token=Oc2aoJTFwg08lyElFzYh4yJbcQhfCEZYFvbpx95RjWOGVZTORqYzbuI5P%2B8djcbY%7C%7CAQAAAWltgW1a		 Website is up
+
+https://www.ebay.com/b/Under-10/bn_7001623770		 Website is up
+
+https://www.ebay.com/globaldeals?_trkparms=pageci%3A132836b9-8150-11e9-b2dc-74dbd1806b3f%7Cparentrq%3Afeb84f5716a0aa13f5a4242bff9bd925%7Ciid%3A1		 Website is up
+
+https://www.ebay.com/globaldeals?_trkparms=pageci%3A132836b9-8150-11e9-b2dc-74dbd1806b3f%7Cparentrq%3Afeb84f5716a0aa13f5a4242bff9bd925%7Ciid%3A1		 Website is up
+
+https://www.ebay.com/itm/SanDisk-Ultra-New-16GB-32GB-64GB-micro-SD-HC-Flash-Memory-Card-80MB-Class10/152241683585?_trkparms=pageci%3A132836b9-8150-11e9-b2dc-74dbd1806b3f%7Cparentrq%3Afeb84f5716a0aa13f5a4242bff9bd925%7Ciid%3A1		 Website is up
+
+https://www.ebay.com/itm/Electric-Fly-Bug-Zapper-Mosquito-Insect-Killer-LED-Light-Trap-Lamp-Pest-Control/202316258353?_trkparms=pageci%3A132836b9-8150-11e9-b2dc-74dbd1806b3f%7Cparentrq%3Afeb84f5716a0aa13f5a4242bff9bd925%7Ciid%3A1		 Website is up
+
+https://www.ebay.com/itm/6Pcs-Waterproof-Travel-Clothes-Storage-Bags-Luggage-Organizer-Pouch-Packing-Cube/312225870349?_trkparms=pageci%3A132836b9-8150-11e9-b2dc-74dbd1806b3f%7Cparentrq%3Afeb84f5716a0aa13f5a4242bff9bd925%7Ciid%3A1		 Website is up
+
+https://www.ebay.com/itm/UGREEN-Micro-USB-Cable-Braided-Fast-Charger-Data-Cable-For-Samsung-S7-S6-Xiaomi/152296033126?_trkparms=pageci%3A132836b9-8150-11e9-b2dc-74dbd1806b3f%7Cparentrq%3Afeb84f5716a0aa13f5a4242bff9bd925%7Ciid%3A1		 Website is up
+
+https://www.ebay.com/itm/Dual-Ports-3-1A-USB-Car-Cigarette-Charger-Lighter-Digital-LED-Voltmeter-12V-24V/123311746950?_trkparms=pageci%3A132836b9-8150-11e9-b2dc-74dbd1806b3f%7Cparentrq%3Afeb84f5716a0aa13f5a4242bff9bd925%7Ciid%3A1		 Website is up
+
+https://www.ebay.com/itm/Hot-Friends-T-Shirt-TV-Show-Inspired-Women-Fashion-Tee-Tops-Tumblr-t-shirts/292660976733?_trkparms=pageci%3A132836b9-8150-11e9-b2dc-74dbd1806b3f%7Cparentrq%3Afeb84f5716a0aa13f5a4242bff9bd925%7Ciid%3A1		 Website is up
+
+https://www.ebay.com/itm/2TB-256GB-Metal-Ring-USB-2-0-Flash-Drive-Memory-Stick-Pen-U-Disk-On-Key-Thumb-PC/292799546666?_trkparms=pageci%3A132836b9-8150-11e9-b2dc-74dbd1806b3f%7Cparentrq%3Afeb84f5716a0aa13f5a4242bff9bd925%7Ciid%3A1		 Website is up
+
+https://www.ebay.com/itm/E27-E14-E12-B22-LED-Corn-Bulb-5730-SMD-Light-Corn-Lamp-Incandescent-20W-160W/222532891266?_trkparms=pageci%3A132836b9-8150-11e9-b2dc-74dbd1806b3f%7Cparentrq%3Afeb84f5716a0aa13f5a4242bff9bd925%7Ciid%3A1		 Website is up
+
+https://www.ebay.com/itm/Sony-PlayStation-4-Pro-Console-Jet-Black-Console-NEW/183266479890?_trkparms=pageci%3A132836b9-8150-11e9-b2dc-74dbd1806b3f%7Cparentrq%3Afeb84f5716a0aa13f5a4242bff9bd925%7Ciid%3A1		 Website is up
+
+https://www.ebay.com/itm/Apple-iPad-Pro-11-Latest-Model-Wi-Fi-64GB-A12X-Retina-Display-MTXN2LL-A/273750094100?_trkparms=pageci%3A132836b9-8150-11e9-b2dc-74dbd1806b3f%7Cparentrq%3Afeb84f5716a0aa13f5a4242bff9bd925%7Ciid%3A1		 Website is up
+
+https://www.ebay.com/itm/TaylorMade-M4-Fairway-Wood-Fujikura-Atmos-Red-Shaft-New-Choose-Specs/142942668033?_trkparms=pageci%3A132836b9-8150-11e9-b2dc-74dbd1806b3f%7Cparentrq%3Afeb84f5716a0aa13f5a4242bff9bd925%7Ciid%3A1		 Website is up
+
+https://www.ebay.com/itm/TaylorMade-M4-Rescue-Hybrid-Fujikura-Atmos-Red-Shaft-New-Choose-Specs/362437989917?_trkparms=pageci%3A132836b9-8150-11e9-b2dc-74dbd1806b3f%7Cparentrq%3Afeb84f5716a0aa13f5a4242bff9bd925%7Ciid%3A1		 Website is up
+
+https://www.ebay.com/itm/Cuisinart-SS-10-Premium-Single-Serve-Coffeemaker/323723099564?_trkparms=pageci%3A132836b9-8150-11e9-b2dc-74dbd1806b3f%7Cparentrq%3Afeb84f5716a0aa13f5a4242bff9bd925%7Ciid%3A1		 Website is up
+
+https://www.ebay.com/itm/Charles-Colvard-Forever-Classic-Square-4-5mm-Moissanite-Necklace-0-60ct-DEW/113546371450?_trkparms=pageci%3A132836b9-8150-11e9-b2dc-74dbd1806b3f%7Cparentrq%3Afeb84f5716a0aa13f5a4242bff9bd925%7Ciid%3A1		 Website is up
+
+https://www.ebay.com/itm/Victorias-Secret-Pink-Campus-Backpack-Bookbag-School-Bag-Zip-Pockets-Vs-New-Nwt/232532038933?_trkparms=pageci%3A132836b9-8150-11e9-b2dc-74dbd1806b3f%7Cparentrq%3Afeb84f5716a0aa13f5a4242bff9bd925%7Ciid%3A1		 Website is up
+
+https://www.ebay.com/rpp/under-10/under-10-phone-cases  		 Website is up
+
+https://www.ebay.com/b/Womens-Bags-Handbags/169291?Style=Clutch%7CSatchel%7CShoulder%2520Bag%7CTote%7CWristlet%7C%21&rt=nc&_udhi=10&_udcur=USD&LH_ItemCondition=1000&LH_BIN=1&LH_FS=1&LH_RPA=1		 Website is up
+
+https://www.ebay.com/rpp/under-10/under-10-fitness		 Website is up
+
+https://www.ebay.com/rpp/under-10/under-10-earrings		 Website is up
+
+https://www.ebay.com/rpp/under-10/under-10-flash-drives		 Website is up
+
+https://www.ebay.com/rpp/under-10/under-10-nail-art		 Website is up
+
+https://www.ebay.com/rpp/under-10/under-10-phone-cables		 Website is up
+
+https://www.ebay.com/sch/allcategories/all-categories		 Website is up
+
+https://pages.ebay.com/help/account/registration.html		 Website is up
+
+https://pages.ebay.com/ebay-money-back-guarantee/		 Website is up
+
+https://pages.ebay.com/help/buy/basics.html		 Website is up
+
+http://stores.ebay.com		 Website is up
+
+http://www.ebay.com/local		 Website is up
+
+http://www.ebay.com/gds		 Website is up
+
+http://csr.ebay.com/cse/sell.jsf		 Website is up
+
+https://cgi5.ebay.com/ws/eBayISAPI.dll?SellHub3&aidZ153=&aid=153		 Website is up
+
+http://pages.ebay.com/sellerinformation/howtosell/sellingbasics.html		 Website is up
+
+http://pages.ebay.com/sellerinformation/ebayforbusiness/essentials.html		 Website is up
+
+https://www.ebaypartnernetwork.com/files/hub/en-US/index.html		 Website is up
+
+https://developer.ebay.com		 Website is up
+
+https://pages.ebay.com/securitycenter/index.html		 Website is up
+
+http://ofr.ebay.com/ws/eBayISAPI.dll?EbayTime		 Website is up
+
+https://pages.ebay.com/sitemap.html		 Website is up
+
+https://www.ebayclassifiedsgroup.com/		 Website is up
+

@@ -1,0 +1,11 @@
+
+https://gglink.uk
+viewport	format-detection	theme-color	generator	generator	generator	msapplication-TileImage	
+https://www.ebay.com
+viewport	description	msvalidate.01	yandex-verification	google-site-verification	referrer	y_key	
+https://www.nytimes.com/
+robots	application-name	msapplication-starturl	msapplication-task	msapplication-task	msapplication-task	msapplication-task	description	CG	SCG	PT	PST	keywords	viewport	twitter:site	
+https://www.bbc.co.uk/
+description	keywords	twitter:card	twitter:site	twitter:title	twitter:description	twitter:creator	twitter:image:src	twitter:image:alt	twitter:domain	viewport	
+https://edition.cnn.com/
+viewport	section	referrer	pubdate	lastmod	twitter:title	description	twitter:description	keywords	twitter:card	
